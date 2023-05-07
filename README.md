@@ -1,10 +1,6 @@
 <h1 align="center">Hey, ich bin's Max</h1>
 <h3 align="center">Ich bin ein Programmierer aus Deutschland</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=haizoooon&label=Profile%20views&color=0e75b6&style=flat" alt="haizoooon" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haizoooon" alt="haizoooon" /></a> </p>
-
 - 🔭 Momentan arbeite ich an [PixelCloud](https://github.com/onlyPixelCloud/PixelCloud)
 
 <h3 align="left">Connect with me:</h3>
